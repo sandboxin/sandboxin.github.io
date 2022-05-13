@@ -2,35 +2,18 @@
 
 A Hacking and penetration testing sandbox in your hands!
 
-We, TowardsNetwork are motivated to provide everyone a safe and secure place to practice penetration testing. We have developed labs, excersices to upskill your cybersecurity knowledge
-### Markdown
+We, TowardsNetwork are motivated to provide everyone a safe and secure place to practice penetration testing. We have developed labs, excersices to upskill your cybersecurity knowledge.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Labs range
 
-```markdown
-Syntax highlighted code block
+- Cloud - Azure, AWS, GCP
+- Web - [Owasp Top 10](https://owasp.org/www-project-top-ten/), [SANS top 25](https://www.sans.org/top25-software-errors/), [API top 10](https://owasp.org/www-project-api-security/), SQL, NoSQL injections.
+- DevOps - Azure DevOps, Jenkins, IaC, Dockers, Kuberneties
 
-# Header 1
-## Header 2
-### Header 3
+### Self hosted labs
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sandboxin/sandboxin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can host your own labs in order to practice certain exercises. Many devops exercises you can run using docker and try them out locally.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Do you have ideas? we're all ears! feel free to raise a PR or do contact us through [email](mailto://contact@towards.network)
