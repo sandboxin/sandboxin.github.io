@@ -7,7 +7,7 @@ We, TowardsNetwork are motivated to provide everyone a safe and secure place to 
 ### Labs range
 
 - Cloud - Azure, AWS, GCP
-- Web - [Owasp Top 10](https://owasp.org/www-project-top-ten/), [SANS top 25](https://www.sans.org/top25-software-errors/), [API top 10](https://owasp.org/www-project-api-security/), SQL, NoSQL injections.
+- Web - [Owasp Top 10](https://owasp.org/www-project-top-ten/), [SANS top 25](https://www.sans.org/top25-software-errors/), [API top 10](https://owasp.org/www-project-api-security/), SQL/NoSQL injections.
 - DevOps - Azure DevOps, Jenkins, IaC, Dockers, Kuberneties
 
 ### Self hosted labs
