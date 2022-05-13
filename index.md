@@ -1,9 +1,8 @@
-## Welcome to sandboxin
+## Welcome to Sandboxin
 
-### A Hacking and penetration testing sandbox in your hands!
+A Hacking and penetration testing sandbox in your hands!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+We, TowardsNetwork are motivated to provide everyone a safe and secure place to practice penetration testing. We have developed labs, excersices to upskill your cybersecurity knowledge
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
