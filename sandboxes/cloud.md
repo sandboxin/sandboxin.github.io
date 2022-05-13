@@ -9,4 +9,4 @@ Choose your Cloud provider
 - Azure
 - GCP
 
-[back](./)
+[back](./../)
