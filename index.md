@@ -16,4 +16,4 @@ You can host your own labs in order to practice certain exercises. Many devops e
 
 ### Support or Contact
 
-Do you have ideas? we're all ears! feel free to raise a PR or do contact us through [email](mailto://contact@towards.network)
+Do you have ideas? we're all ears! feel free to raise a PR or do contact us through [email](mailto:contact@towards.network)
